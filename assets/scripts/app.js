@@ -23,7 +23,7 @@ const Portfolio = function() {
 				text: "java",
 				weight: 9
 			}, {
-				text: "qazi",
+				text: "NOKREK",
 				weight: 15
 			}, {
 				text: "newText",
